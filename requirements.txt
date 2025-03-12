@@ -1,0 +1,4 @@
+Deprecated==1.2.18
+PyVirtualDisplay==3.0
+Requests==2.32.3
+websocket_client==1.8.0

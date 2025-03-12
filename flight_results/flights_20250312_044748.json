@@ -1,0 +1,402 @@
+[
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 8:50pm from $1,188",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 8:50pm from Zhengzhou, arriving at 3:30am in Nairobi, Priced at $1,188 Roundtrip per traveler. Arrives 2 days later. 35 hours 40 minutes total travel time, Two stops, Layover for 2 hours 45 minutes in Chengdu \u2022 Layover for 14 hours 55 minutes in Cairo.",
+        "total_price": "$1,188",
+        "price_per_person": "$1,187.76",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,187.76",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "8:50pm - 3:30am",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "2h 45m in Chengdu (TFU) \u2022 14h 55m in Cairo (CAI)",
+                "duration_and_stops": "35h 40m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 6:15pm from $1,456",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 6:15pm from Zhengzhou, arriving at 2:45pm in Nairobi, Priced at $1,456 Roundtrip per traveler. Arrives 1 day later. 25 hours 30 minutes total travel time, Two stops, Layover for 3 hours 40 minutes in Beijing \u2022 Layover for 6 hours 5 minutes in Dubai.",
+        "total_price": "$1,456",
+        "price_per_person": "$1,455.90",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,455.90",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "6:15pm - 2:45pm",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "3h 40m in Beijing (PEK) \u2022 6h 5m in Dubai (DXB)",
+                "duration_and_stops": "25h 30m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 9:15am from $1,514",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 9:15am from Zhengzhou, arriving at 6:05am in Nairobi, Priced at $1,514 Roundtrip per traveler. Arrives 1 day later. 25 hours 50 minutes total travel time, Two stops, Layover for 6 hours 55 minutes in Beijing \u2022 Layover for 2 hours 45 minutes in Dubai.",
+        "total_price": "$1,514",
+        "price_per_person": "$1,513.20",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,513.20",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "9:15am - 6:05am",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "6h 55m in Beijing (PEK) \u2022 2h 45m in Dubai (DXB)",
+                "duration_and_stops": "25h 50m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 6:15pm from $1,456",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 6:15pm from Zhengzhou, arriving at 7:35pm in Nairobi, Priced at $1,456 Roundtrip per traveler. Arrives 1 day later. 30 hours 20 minutes total travel time, Two stops, Layover for 3 hours 40 minutes in Beijing \u2022 Layover for 10 hours 50 minutes in Dubai.",
+        "total_price": "$1,456",
+        "price_per_person": "$1,455.90",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,455.90",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "6:15pm - 7:35pm",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "3h 40m in Beijing (PEK) \u2022 10h 50m in Dubai (DXB)",
+                "duration_and_stops": "30h 20m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 9:15am from $1,456",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 9:15am from Zhengzhou, arriving at 2:45pm in Nairobi, Priced at $1,456 Roundtrip per traveler. Arrives 1 day later. 34 hours 30 minutes total travel time, Two stops, Layover for 12 hours 50 minutes in Beijing \u2022 Layover for 6 hours 5 minutes in Dubai.",
+        "total_price": "$1,456",
+        "price_per_person": "$1,455.90",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,455.90",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "9:15am - 2:45pm",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "12h 50m in Beijing (PEK) \u2022 6h 5m in Dubai (DXB)",
+                "duration_and_stops": "34h 30m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 6:15pm from $1,779",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 6:15pm from Zhengzhou, arriving at 9:05pm in Nairobi, Priced at $1,779 Roundtrip per traveler. Arrives 1 day later. 31 hours 50 minutes total travel time, Two stops, Layover for 6 hours 40 minutes in Beijing \u2022 Layover for 3 hours 55 minutes in Paris.",
+        "total_price": "$1,779",
+        "price_per_person": "$1,778.68",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,778.68",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "6:15pm - 9:05pm",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "6h 40m in Beijing (PEK) \u2022 3h 55m in Paris (CDG)",
+                "duration_and_stops": "31h 50m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 3:40pm from $1,743",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 3:40pm from Zhengzhou, arriving at 10:20pm in Nairobi, Priced at $1,743 Roundtrip per traveler. Arrives 1 day later. 35 hours 40 minutes total travel time, Two stops, Layover for 5 hours 55 minutes in Shenzhen \u2022 Layover for 9 hours 35 minutes in Johannesburg. Multiple airlines operated by Shenzhen Airlines, Air China and Kenya Airways",
+        "total_price": "$1,743",
+        "price_per_person": "$1,742.48",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,742.48",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "3:40pm - 10:20pm",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "5h 55m in Shenzhen (SZX) \u2022 9h 35m in Johannesburg (JNB)",
+                "duration_and_stops": "35h 40m (2 stops)",
+                "operated_by": "Multiple airlines operated by Shenzhen Airlines, Air China and Kenya Airways",
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 3:40pm from $1,743",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 3:40pm from Zhengzhou, arriving at 10:20pm in Nairobi, Priced at $1,743 Roundtrip per traveler. Arrives 1 day later. 35 hours 40 minutes total travel time, Two stops, Layover for 5 hours 55 minutes in Shenzhen \u2022 Layover for 9 hours 35 minutes in Johannesburg.",
+        "total_price": "$1,743",
+        "price_per_person": "$1,742.48",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,742.48",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "3:40pm - 10:20pm",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "5h 55m in Shenzhen (SZX) \u2022 9h 35m in Johannesburg (JNB)",
+                "duration_and_stops": "35h 40m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 7:15am from $1,820",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 7:15am from Zhengzhou, arriving at 1:10pm in Nairobi, Priced at $1,820 Roundtrip per traveler. Arrives 1 day later. 34 hours 55 minutes total travel time, Two stops, Layover for 14 hours 35 minutes in Shanghai \u2022 Layover for 3 hours 55 minutes in Addis Ababa.",
+        "total_price": "$1,820",
+        "price_per_person": "$1,819.20",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,819.20",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "7:15am - 1:10pm",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "14h 35m in Shanghai (PVG) \u2022 3h 55m in Addis Ababa (ADD)",
+                "duration_and_stops": "34h 55m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 9:25pm from $2,545",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 9:25pm from Zhengzhou, arriving at 6:05am in Nairobi, Priced at $2,545 Roundtrip per traveler. Arrives 2 days later. 37 hours 40 minutes total travel time, Two stops, Layover for 21 hours 45 minutes in Guangzhou \u2022 Layover for 1 hour 25 minutes in Bangkok.",
+        "total_price": "$2,545",
+        "price_per_person": "$2,544.48",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $2,544.48",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "9:25pm - 6:05am",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "21h 45m in Guangzhou (CAN) \u2022 1h 25m in Bangkok (BKK)",
+                "duration_and_stops": "37h 40m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 8:00pm from $1,724",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 8:00pm from Zhengzhou, arriving at 3:30am in Nairobi, Priced at $1,724 Roundtrip per traveler. Arrives 2 days later. 36 hours 30 minutes total travel time, Two stops, Layover for 3 hours 35 minutes in Shanghai \u2022 Layover for 13 hours 40 minutes in Cairo.",
+        "total_price": "$1,724",
+        "price_per_person": "$1,723.18",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,723.18",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "8:00pm - 3:30am",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "3h 35m in Shanghai (PVG) \u2022 13h 40m in Cairo (CAI)",
+                "duration_and_stops": "36h 30m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 4:35pm from $1,820",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 4:35pm from Zhengzhou, arriving at 1:20am in Nairobi, Priced at $1,820 Roundtrip per traveler, 5 left at this price. Arrives 2 days later. 37 hours 45 minutes total travel time, Two stops, Layover for 7 hours 10 minutes in Chengdu \u2022 Layover for 16 hours 40 minutes in Addis Ababa.",
+        "total_price": "$1,820",
+        "price_per_person": "$1,819.20",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $1,819.20",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "4:35pm - 1:20am",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "7h 10m in Chengdu (TFU) \u2022 16h 40m in Addis Ababa (ADD)",
+                "duration_and_stops": "37h 45m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 7:15am from $2,112",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 7:15am from Zhengzhou, arriving at 10:00pm in Nairobi, Priced at $2,112 Roundtrip per traveler, 4 left at this price. Arrives 1 day later. 43 hours 45 minutes total travel time, Two stops, Layover for 2 hours 30 minutes in Shanghai \u2022 Layover for 16 hours 55 minutes in Amsterdam.",
+        "total_price": "$2,112",
+        "price_per_person": "$2,111.88",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $2,111.88",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "7:15am - 10:00pm",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "2h 30m in Shanghai (PVG) \u2022 16h 55m in Amsterdam (AMS)",
+                "duration_and_stops": "43h 45m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 3:45pm from $2,154",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 3:45pm from Zhengzhou, arriving at 1:20am in Nairobi, Priced at $2,154 Roundtrip per traveler. Arrives 2 days later. 38 hours 35 minutes total travel time, Two stops, Layover for 5 hours 45 minutes in Shanghai \u2022 Layover for 16 hours 25 minutes in Addis Ababa.",
+        "total_price": "$2,154",
+        "price_per_person": "$2,153.48",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $2,153.48",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "3:45pm - 1:20am",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "5h 45m in Shanghai (PVG) \u2022 16h 25m in Addis Ababa (ADD)",
+                "duration_and_stops": "38h 35m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 3:55pm from $2,154",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 3:55pm from Zhengzhou, arriving at 1:20am in Nairobi, Priced at $2,154 Roundtrip per traveler. Arrives 2 days later. 38 hours 25 minutes total travel time, Two stops, Layover for 7 hours 50 minutes in Chengdu \u2022 Layover for 16 hours 40 minutes in Addis Ababa.",
+        "total_price": "$2,154",
+        "price_per_person": "$2,153.48",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $2,153.48",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "3:55pm - 1:20am",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "7h 50m in Chengdu (TFU) \u2022 16h 40m in Addis Ababa (ADD)",
+                "duration_and_stops": "38h 25m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "FlightsStandardOffer",
+        "heading": "Multiple Airlines flight departing at 12:00pm from $2,244",
+        "description": "Select and show fare information for multipleAirlines flight, departing at 12:00pm from Zhengzhou, arriving at 1:20am in Nairobi, Priced at $2,244 Roundtrip per traveler. Arrives 2 days later. 42 hours 20 minutes total travel time, Two stops, Layover for 9 hours 50 minutes in Shanghai \u2022 Layover for 16 hours 25 minutes in Addis Ababa.",
+        "total_price": "$2,244",
+        "price_per_person": "$2,243.48",
+        "total_price_all_travelers": "Roundtrip price for 1 traveler, including taxes and fees: $2,243.48",
+        "trip_type": "Roundtrip per traveler",
+        "flight_legs": [
+            {
+                "cabin_class": "Coach",
+                "travel_times": "12:00pm - 1:20am",
+                "route": "Zhengzhou (CGO) - Nairobi (NBO)",
+                "layover_info": "9h 50m in Shanghai (PVG) \u2022 16h 25m in Addis Ababa (ADD)",
+                "duration_and_stops": "42h 20m (2 stops)",
+                "operated_by": null,
+                "airlines": [
+                    {
+                        "name": "Multiple airlines",
+                        "logo": "https://images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/vector/s/multiple_airlines_logo_sq.svg"
+                    }
+                ]
+            }
+        ]
+    }
+]
